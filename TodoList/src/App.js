@@ -116,7 +116,7 @@ function App() {
           <div className="todo-container show-container">
             {/* Table for uncompleted tasks */}
             <div className="task-box">
-              <h2>Uncompleted Tasks</h2>
+              <h2>Incompleted Tasks</h2>
               <table className="task-table">
                 <thead>
                   <tr>
